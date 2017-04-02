@@ -10,6 +10,7 @@ Generate a _pdf_ file from _markdown_ using _pandoc_ and compiling with _pdftex_
 
 ## Structure
 
+```
 $ tree
 .
 ├── Makefile
@@ -24,6 +25,7 @@ $ tree
     └── packages.tex
 
 1 directory, 9 files
+```
 
 ## Features
 
@@ -32,5 +34,6 @@ $ tree
 - [x] Font bold
 - [x] Font italic
 - [x] Footnote
+- [x] Math equations
 - [ ] Images
 
