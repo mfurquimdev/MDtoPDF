@@ -1,0 +1,72 @@
+# Binary files
+bin
+prog
+*.pdf
+
+# Generated Tex Files
+doc/tex/tmp.tex
+doc/tex/tcc.tex
+doc/ref
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.lof
+*.log
+*.lot
+*.toc
+doc/latex/tcc.pdf
+*.txt
+*.nav
+
+# PDF files
+.pdf
+
+# Object files
+obj
+
+# Map files
+map
+
+# Backup files
+bk/
+
+# Video of gameplay
+vid/
+
+# Debug
+*.err
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
